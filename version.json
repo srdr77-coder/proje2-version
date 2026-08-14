@@ -1,4 +1,4 @@
 {
- "version": "v10.96.2",
- "note": "Personel yönetimindeki geçici form teşhis kayıtları kaldırıldı."
+ "version": "v10.96.3",
+ "note": "Hatalı izin analizi kısmi çakışmaları da buluyor."
 }
