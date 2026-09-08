@@ -1,4 +1,4 @@
 {
  "version": "v10.96.7",
- "note": "Toplu işten çıkış performansı iyileştirildi."
+ "note": "Toplu işlemlerde veri kaydetme performansı iyileştirildi."
 }
