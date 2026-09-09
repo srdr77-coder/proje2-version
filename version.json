@@ -1,4 +1,4 @@
 {
- "version": "v10.96.7",
- "note": "Toplu işlemlerde veri kaydetme performansı iyileştirildi."
+ "version": "v10.96.8",
+ "note": "Toplu izin yükleme performansı iyileştirildi."
 }
