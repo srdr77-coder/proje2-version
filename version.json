@@ -1,4 +1,4 @@
 {
- "version": "v10.96.8",
- "note": "Toplu izin yükleme performansı iyileştirildi."
+ "version": "v10.97.0",
+ "note": "Personel bazlı toplam izin Excel çıktısı eklendi."
 }
