@@ -1,4 +1,4 @@
 {
- "version": "v10.97.0",
- "note": "Personel bazlı toplam izin Excel çıktısı eklendi."
+ "version": "v10.97.1",
+ "note": "İşten çıkış mahsuplarının aylık izin toplamına yansıması düzeltildi."
 }
